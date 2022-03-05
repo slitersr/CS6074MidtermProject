@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-05 00:15-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\CoreUtilities\CoreUtilitiesLibrary.cpp:6
+msgctxt "ensuring legal message"
+msgid "[Core Utilities] Validating string: "
+msgstr ""
+
+#: .\CoreNetworking\CoreNetworkingLibrary.cpp:7
+msgctxt "established internet connection"
+msgid "[Networking] Connected to server: "
+msgstr ""
+
+#: .\CoreNetworking\CoreNetworkingLibrary.cpp:12
+msgctxt "data over network"
+msgid "[Networking] Sending data to server ("
+msgstr ""
+
+#: .\CoreNetworking\CoreNetworkingLibrary.cpp:12
+msgid " bytes)"
+msgstr ""
+
+#: .\CoreNetworking\CoreNetworkingLibrary.cpp:17
+msgctxt "internet connection lost"
+msgid "[Networking] Disconnected"
+msgstr ""
+
+#: .\ApplicationLogic\ApplicationLogicLibrary.cpp:9
+msgid "[Application] Sending message to '"
+msgstr ""
+
+#: .\ApplicationLogic\ApplicationLogicLibrary.cpp:9
+msgctxt "text message contents"
+msgid "' with content '"
+msgstr ""
+
+#: .\ApplicationLogic\ApplicationLogicLibrary.cpp:19
+msgctxt "text message transmission"
+msgid "[Application] Message sent!"
+msgstr ""
+
+#: .\ApplicationLogic\ApplicationLogicLibrary.cpp:24
+msgctxt "retrieving"
+msgid "[Application] Getting current messages"
+msgstr ""
+
+#: .\UIComponents\UIComponentsLibrary.cpp:7
+msgctxt "adding to user interface"
+msgid "[UI Components] Creating window"
+msgstr ""
+
+#: .\UIComponents\UIComponentsLibrary.cpp:12
+msgctxt "adding to user interface"
+msgid "[UI Components] Creating button"
+msgstr ""
+
+#: .\UIComponents\UIComponentsLibrary.cpp:17
+msgctxt "adding to user interface"
+msgid "[UI Components] Creating text box"
+msgstr ""
+
+#: .\UIComponents\UIComponentsLibrary.cpp:30
+msgid "[UI Components] Send button clicked"
+msgstr ""
+
+#: .\UIMain\UIMain.cpp:14
+msgctxt "creating user interface"
+msgid "[UI Main] Creating window"
+msgstr ""
+
+#: .\UIMain\UIMain.cpp:19
+msgid "[UI Main] Setting text fields and sending message"
+msgstr ""
+
+#: .\UIMain\UIMain.cpp:20
+msgctxt "messenger application user"
+msgid "Test User"
+msgstr ""
+
+#: .\UIMain\UIMain.cpp:21
+msgid "This message is being sent from the user interface"
+msgstr ""
+
+#: .\UIMain\UIMain.cpp:23
+msgctxt "user closed application"
+msgid "[UI Main] Exiting application"
+msgstr ""
+
+#: .\BatchMain\BatchMain.cpp:14
+msgid "[Batch API] Sending a batch of messages"
+msgstr ""
+
+#: .\BatchMain\BatchMain.cpp:15 .\BatchMain\BatchMain.cpp:16
+msgctxt "person"
+msgid "Test User"
+msgstr ""
+
+#: .\BatchMain\BatchMain.cpp:15
+msgctxt "chat"
+msgid "First message"
+msgstr ""
+
+#: .\BatchMain\BatchMain.cpp:16
+msgctxt "chat"
+msgid "Second message"
+msgstr ""
+
+#: .\BatchMain\BatchMain.cpp:17
+msgctxt "transmitted"
+msgid "[Batch API] All messages sent"
+msgstr ""

@@ -1,6 +1,7 @@
 #pragma once
 
 #include <string>
+#include <boost/locale.hpp>
 
 #ifdef CORE_DATA_MODEL_LIBRARY_EXPORT
 #define CORE_DATA_MODEL_LIBRARY_API __declspec(dllexport)
